@@ -16,7 +16,7 @@ Library Management System/
 │   │   ├── theme/              # Custom themes, overrides
 │   │   ├── utils/              # Utility functions
 │   │   ├── App.jsx             # Root app component
-│   │   ├── index.js            # React entry point
+│   │   ├── index.js             # React entry point
 │   │   └── routes.js           # Route configuration
 │   ├── .eslintrc               # Linter configuration
 │   ├── .gitignore              # Files to ignore in git
